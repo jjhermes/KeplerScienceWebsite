@@ -155,7 +155,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>11:15-11:30</td>
   <td> Hilke Schlichting (UCLA)  </td>
-  <td>Observational Signatures of the Core-Powered Mass-Loss Mechanism</td>
+  <td>Observational Signatures of the Core-Powered Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass</td>
 </tr>
 
  <tr>
@@ -257,7 +257,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>16:15-16:30</td>
   <td>Timothy Morton (University of Florida)</td>
-  <td>The Probabilistic Validation Revolution</td>
+  <td>The Probabilistic Validation Revolution: How Kepler forced a paradigm shift in how we treat transiting planet candidates</td>
 </tr>
 
  <tr>
@@ -364,7 +364,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>10:45-11:00</td>
   <td>Juliette Becker (University of Michigan)</td>
-  <td>Dynamically Determining Observationally Ill-Constrained Planet Parameters</td>
+  <td>Dynamically Determining Observationally Ill-Constrained Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System HIP 41378</td>
   </tr>
 
  <tr>
@@ -459,7 +459,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
  <tr>
   <td>16:00-16:15</td>
-  <td>Georgios Dimitiadis (UC Santa Cruz)</td>
+  <td>Georgios Dimitriadis (UC Santa Cruz)</td>
   <td>K2 Observations of SN 2018oh Reveal a Two-Component Rising Light Curve for a Type Ia Supernova</td>
 </tr>
 
@@ -530,7 +530,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>09:00-09:15</td>
   <td>Dennis Stello (University of New South Wales)</td>
-  <td>The K2 Galactic Archaeology Program</td>
+  <td>The K2 Galactic Archaeology Program: revealing the jigsaw puzzle one campaign at a time</td>
 </tr>
 
  <tr>
@@ -725,7 +725,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>09:45-10:00</td>
   <td>Joshua Reding (UNC Chapel Hill)</td>
-  <td>The Most Rapidly Rotating Isolated White Dwarf</td>
+  <td>The Confluence of Hardware Failures That Lead to the Discovery of the Most Rapidly Rotating Isolated White Dwarf</td>
   </tr>
 
  <tr>
@@ -851,7 +851,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>16:00-16:15</td>
   <td>Jack Lissauer (NASA Ames)</td>
-  <td>Architecture and Dynamics of Kepler’s Multi-Transiting Planet Systems</td>
+  <td>Architecture and Dynamics of Kepler’s Multi-Transiting Planet Systems: A Comprehensive Investigation Using All Four Years of Kepler Mission Data</td>
 </tr>
 
  <tr>
